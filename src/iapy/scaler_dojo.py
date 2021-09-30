@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Module help
+Helper module for dojo on sklearn scaler
 
 :synopsis: help
 

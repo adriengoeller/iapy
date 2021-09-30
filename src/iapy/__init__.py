@@ -1,4 +1,4 @@
-from iapy import scaler_dojo
+from iapy import scaler_dojo,titanic_cleaning_dojo
 
 """Package iapy
 
@@ -9,7 +9,7 @@ from iapy import scaler_dojo
 
 
 __all__ = [
-    "scaler_dojo"
+    "scaler_dojo", "titanic_cleaning_dojo"
 ]
 
 #: Project's name
